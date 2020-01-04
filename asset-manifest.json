@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/diegocamy/rick-and-morty-infoapp/static/js/main.d6df57c0.chunk.js",
-    "main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/main.d6df57c0.chunk.js.map",
-    "runtime-main.js": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js",
-    "runtime-main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js.map",
-    "static/js/2.86fb711a.chunk.js": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js",
-    "static/js/2.86fb711a.chunk.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.map",
-    "index.html": "/diegocamy/rick-and-morty-infoapp/index.html",
-    "precache-manifest.627c1b7ff9b8519276d390cb2f89d820.js": "/diegocamy/rick-and-morty-infoapp/precache-manifest.627c1b7ff9b8519276d390cb2f89d820.js",
-    "service-worker.js": "/diegocamy/rick-and-morty-infoapp/service-worker.js",
-    "static/js/2.86fb711a.chunk.js.LICENSE": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.LICENSE",
-    "static/media/logo.png": "/diegocamy/rick-and-morty-infoapp/static/media/logo.75509f2e.png"
+    "main.js": "/rick-and-morty-infoapp/static/js/main.d6df57c0.chunk.js",
+    "main.js.map": "/rick-and-morty-infoapp/static/js/main.d6df57c0.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-infoapp/static/js/runtime-main.e3867e58.js",
+    "runtime-main.js.map": "/rick-and-morty-infoapp/static/js/runtime-main.e3867e58.js.map",
+    "static/js/2.86fb711a.chunk.js": "/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js",
+    "static/js/2.86fb711a.chunk.js.map": "/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.map",
+    "index.html": "/rick-and-morty-infoapp/index.html",
+    "precache-manifest.87dc5a23500a45b9403b97321262ac3f.js": "/rick-and-morty-infoapp/precache-manifest.87dc5a23500a45b9403b97321262ac3f.js",
+    "service-worker.js": "/rick-and-morty-infoapp/service-worker.js",
+    "static/js/2.86fb711a.chunk.js.LICENSE": "/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.LICENSE",
+    "static/media/logo.png": "/rick-and-morty-infoapp/static/media/logo.75509f2e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.00131b5b.js",
+    "static/js/runtime-main.e3867e58.js",
     "static/js/2.86fb711a.chunk.js",
     "static/js/main.d6df57c0.chunk.js"
   ]

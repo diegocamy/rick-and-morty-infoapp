@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/diegocamy/rick-and-morty-infoapp/static/js/main.612b0254.chunk.js",
+    "main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/main.612b0254.chunk.js.map",
+    "runtime-main.js": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js",
+    "runtime-main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js.map",
+    "static/js/2.644c3b1b.chunk.js": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js",
+    "static/js/2.644c3b1b.chunk.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js.map",
+    "index.html": "/diegocamy/rick-and-morty-infoapp/index.html",
+    "precache-manifest.625c39effbf0fc03b17bb4542ffce7f2.js": "/diegocamy/rick-and-morty-infoapp/precache-manifest.625c39effbf0fc03b17bb4542ffce7f2.js",
+    "service-worker.js": "/diegocamy/rick-and-morty-infoapp/service-worker.js",
+    "static/js/2.644c3b1b.chunk.js.LICENSE": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js.LICENSE",
+    "static/media/logo.png": "/diegocamy/rick-and-morty-infoapp/static/media/logo.75509f2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00131b5b.js",
+    "static/js/2.644c3b1b.chunk.js",
+    "static/js/main.612b0254.chunk.js"
+  ]
+}

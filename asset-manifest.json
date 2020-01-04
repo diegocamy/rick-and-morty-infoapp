@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/diegocamy/rick-and-morty-infoapp/static/js/main.3358e1d7.chunk.js",
-    "main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/main.3358e1d7.chunk.js.map",
+    "main.js": "/diegocamy/rick-and-morty-infoapp/static/js/main.a30bb793.chunk.js",
+    "main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/main.a30bb793.chunk.js.map",
     "runtime-main.js": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js",
     "runtime-main.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/runtime-main.00131b5b.js.map",
-    "static/js/2.644c3b1b.chunk.js": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js",
-    "static/js/2.644c3b1b.chunk.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js.map",
+    "static/js/2.86fb711a.chunk.js": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js",
+    "static/js/2.86fb711a.chunk.js.map": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.map",
     "index.html": "/diegocamy/rick-and-morty-infoapp/index.html",
-    "precache-manifest.72b5503ceb6d61c13569dedd7e095559.js": "/diegocamy/rick-and-morty-infoapp/precache-manifest.72b5503ceb6d61c13569dedd7e095559.js",
+    "precache-manifest.5be6d60355e074540ce0347c434be82c.js": "/diegocamy/rick-and-morty-infoapp/precache-manifest.5be6d60355e074540ce0347c434be82c.js",
     "service-worker.js": "/diegocamy/rick-and-morty-infoapp/service-worker.js",
-    "static/js/2.644c3b1b.chunk.js.LICENSE": "/diegocamy/rick-and-morty-infoapp/static/js/2.644c3b1b.chunk.js.LICENSE",
+    "static/js/2.86fb711a.chunk.js.LICENSE": "/diegocamy/rick-and-morty-infoapp/static/js/2.86fb711a.chunk.js.LICENSE",
     "static/media/logo.png": "/diegocamy/rick-and-morty-infoapp/static/media/logo.75509f2e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.00131b5b.js",
-    "static/js/2.644c3b1b.chunk.js",
-    "static/js/main.3358e1d7.chunk.js"
+    "static/js/2.86fb711a.chunk.js",
+    "static/js/main.a30bb793.chunk.js"
   ]
 }
